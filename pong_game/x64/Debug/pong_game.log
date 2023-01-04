@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\alexa\source\repos\pong_game\pong_game\Source.cpp(52,8): warning C4101: 'msg' : variable locale non référencée
+  pong_game.vcxproj -> C:\Users\alexa\source\repos\pong_game\x64\Debug\pong_game.exe
